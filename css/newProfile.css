@@ -61,6 +61,7 @@ body {
   box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.25);
   border-radius: 5px;
   height: 290px;
+  background: #FFFFFF;
 }
 
 .info_menu div {
@@ -92,6 +93,10 @@ body {
 
 .info_menu_item:last-child {
   margin-bottom: 20px;
+}
+
+.info_menu_item:last-child a {
+  color: #D9D9D9;
 }
 
 .info_person_box {
@@ -129,11 +134,10 @@ body {
 }
 
 .info_person_box_content_action p {
-  margin-right: 14px;
+  margin-right: 9px;
 }
 
-.info_person_box_content_action button {
-  border: 0;
+.info_person_box_content_action img {
   cursor: pointer;
 }
 
