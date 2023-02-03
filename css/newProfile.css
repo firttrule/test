@@ -11,43 +11,6 @@ body {
   font-size: 20px;
 }
 
-.header {
-  display: flex;
-  justify-content: space-between;
-  margin-top: 40px;
-  padding-right: 97px;
-  margin-bottom: 58px;
-}
-
-.header_logo {
-  width: 81px;
-  height: 81px;
-  padding-left: 94px;
-}
-
-.header_logo img {
-  width: 100%;
-}
-
-/* .header_search{
-  position: relative;
-}
-
-.header_search img{
-  
-} */
-
-.header_search input {
-  padding: 8px 32px 8px 8px;
-  width: 656px;
-  margin-top: 29px;
-  font-family: "Roboto";
-  border-radius: 5px;
-  box-sizing: border-box;
-  border-color: black;
-  opacity: 0.5;
-}
-
 .info {
   display: flex;
   gap: 194px;
